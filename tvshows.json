@@ -17,77 +17,77 @@
 	{
 	 "name": "DuRaRaRa",
 	 "ranking": 3,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/drrr.jpeg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/drrr.jpeg",
 	 "medium": "anime",
          "description": "DuRaRaRa is a very unique anime often reffered to as a character study.This is mainly resulting from its layered plot threads and giant cast of characters all taking place in a giant city. Its morally complex characters will make for a very complex journey."
 	},
 	{
 	 "name": "Fullmetal Alchemist Brotherhood",
 	 "ranking": 4,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/fmabrotherhood.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/fmabrotherhood.jpg",
 	 "medium": "anime",
 	 "description": "Fullmetal Alchemist Brotherhood is an adaptation of Fullmetal Alchemist with a more faithful approach to the manga, which most anime's are made from, it was based off of. This show features complex storylines, numerous character arcs, and a heavy focus on philosophical tone."
 	},
 	{
 	 "name": "The Legend of Korra",
 	 "ranking": 5,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/legendofkorra.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/legendofkorra.jpg",
 	 "medium": "western animation",
 	 "description": "The Legend of Korra follows its predecessor Avatar: The Last Airbenderin crafting a mature and philosophical story in spite of its more child-oriented target demographic. Legend of Korra takes it a step further by its older cast, more political subject matters, and interesting visuals."
 	},
 	{
 	 "name": "Yu Yu Haksuho",
 	 "ranking": 6,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/yuyuhakusho.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/yuyuhakusho.jpg",
 	 "medium": "anime",
 	 "description": "Yu Yu Hakusho is a classic shonen comprising of 4 adolescents who are tasked with saving the world from spiritual demons. It's a more action-heavy show with some dark themes incorporated into the storyline. Its design and writing would inspire future shonen's to come."
 	},
 	{
 	 "name": "Naruto",
 	 "ranking": 7,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/naruto.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/naruto.jpg",
 	 "medium": "anime",
 	 "description": "Naruto Part I is the predesecessor to Naruto Shippuden, starting all the plotpoints and establishing all the characters that would be developed in the future. The overall tone is more lighter but quite more effective in Part I, as well as the soundtrack, combining japanese traditional instruments with western flare."
 	},
 	{
 	 "name": "Neon Genesis Evangelion",
 	 "ranking": 8,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/evangelion.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/evangelion.jpg",
 	 "medium": "anime",
 	 "description": "Neon Genesis Evangelion, or just Evangelion, is a more dark and philosophical series dealing set in a dystopian world where children are forced into commanding machines to fight aliens. Despite its dark tone, the series features some fascinating characters and very experimental visuals, making it a must-see."
 	},
 	{
 	 "name": "MonogatariSeries",
 	 "ranking": 9,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/monogatari.jpeg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/monogatari.jpeg",
 	 "medium": "anime",
 	 "description": "Monogatari, meaning 'stories' in japanese, is a cult classic series following the main character Koyomi, as he solves cases of aberrations occuring in the women in his town. It's well known for it's outstanding animation on top of its symbolic writing."
          },
          {
 	 "name": "Gravity Falls",
 	 "ranking": 10,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/gravityfalls.png",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/gravityfalls.png",
 	 "medium": "western animation",
 	 "description": "This show, in spite of running for only 3 years from 2012 to 2015, left a resounding legacy for many in the west. Gravity Falls features a great blend of comedy, adventure, and action in addition to a rich cast of characters."
         },
 	{
 	 "name": "Bleach",
 	 "ranking": 11,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/bleach.png",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/bleach.png",
 	 "medium": "anime",
 	 "description": "This anime is still ongoing since 2004. It features a diverse cast of characters, complex themes, and is a prominent example of a shonen anime."
 	},
 	{
 	 "name": "Naruto Shippuden",
 	 "ranking": 12,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/narutoshippuden.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/narutoshippuden.jpg",
 	 "medium": "anime",
 	 "description": "This anime ran from 2007 to 2017. It was a continuation from the original Naruto and featured twice as many episodes with increased stakes, diverse music, and far more interesting storylines."
 	},
 	{
 	 "name": "Steven Universe",
 	 "ranking": 13,
-	 "image": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/stevenuniverse.jpg",
+	 "image_url": "https://raw.githubusercontent.com/akelkar98/JSONProjectsIT315/master/stevenuniverse.jpg",
 	 "medium": "western animation",
 	 "description": "This show aired on Cartoon Network from 2013 until 2019. It is a rare take on the shonun genre that is normally only present in Japan. Steven Universe is about a boy who lives with three alien creatures known as gems, who are tasked with protecting Earth from other alien gems."
 	}
